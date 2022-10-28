@@ -21,14 +21,14 @@ Specifically, the purpose of this analysis is to create and run a Python script 
 ## **Analysis**
 Softwares: Python 3.7.6.7 and Visual studio Code 1.72.2
 
-Data source can be found here as a *.csv file: [election_results](https://github.com/MSF2141/election-analysis/blob/f3555399e3f34aa2e7c59b239359e56b726efc69/resources/election_results.csv)  and here as a *.xlsx file: [election_results](https://github.com/MSF2141/election-analysis/blob/19c04d0dfbc2644c263757acf624e8c4d2005abd/resources/election_results.xlsx).
+Data source can be found here as a *.csv file: [election_results](https://github.com/MSF2141/election-analysis/blob/f3555399e3f34aa2e7c59b239359e56b726efc69/resources/election_results.csv)  and as a *.xlsx file: [election_results](https://github.com/MSF2141/election-analysis/blob/19c04d0dfbc2644c263757acf624e8c4d2005abd/resources/election_results.xlsx).
 
 Complete Python script can be found here: [PyPoll](https://github.com/MSF2141/election-analysis/blob/0c4dd0e0e08adde640c2937e66c999f796bbf494/PyPoll_Challenge.py).
 
 
 
 ## **Results**
-Printed results in a textfile can be found here: [election_analysis](https://github.com/MSF2141/election-analysis/blob/3066d208893af15b7448dfd2b48e40b37a8ce9c4/analysis/election_analysis.txt).
+Results are printed here as a *.txt file: [election_analysis](https://github.com/MSF2141/election-analysis/blob/3066d208893af15b7448dfd2b48e40b37a8ce9c4/analysis/election_analysis.txt).
 
 The analysis of the election show that:
 - There were 369,711 votes cast in the election.
@@ -47,10 +47,8 @@ The analysis of the election show that:
 
 
 
-### Stock Performance and execution time using the Original VBA Code
-![VBA_Challenge_2018](https://github.com/MSF2141/stock-analysis/blob/f27bbee436474c9576185c06c1e3417b5b643aac/Resources/VBA_Challenge_2018.png)
 
  
 ## **Summary**
-Stock performance is the same for the year 2018 regardless of the VBA code used. As per the execution times, the VBA script seems to run slightly faster using the original VBA script. 
+
 In a summary statement, provide a business proposal to the election commission on how this script can be used—with some modifications—for any election. Give at least two examples of how this script can be modified to be used for other elections.
