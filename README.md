@@ -22,7 +22,7 @@ Softwares: Python 3.7.6.7 and Visual studio Code (VS Code) 1.72.2
 
 Data source can be found here as a *.csv file: [election_results](https://github.com/MSF2141/election-analysis/blob/f3555399e3f34aa2e7c59b239359e56b726efc69/resources/election_results.csv)  and as a *.xlsx file: [election_results](https://github.com/MSF2141/election-analysis/blob/19c04d0dfbc2644c263757acf624e8c4d2005abd/resources/election_results.xlsx).
 
-Complete Python script can be found here: [PyPoll](https://github.com/MSF2141/election-analysis/blob/0c4dd0e0e08adde640c2937e66c999f796bbf494/PyPoll_Challenge.py).
+Complete Python script can be found here: [PyPoll_Challenge](https://github.com/MSF2141/election-analysis/blob/0c4dd0e0e08adde640c2937e66c999f796bbf494/PyPoll_Challenge.py).
 
 
 ## **Results**
