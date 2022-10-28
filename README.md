@@ -25,20 +25,20 @@ Data source can be found here as a *.csv file: [election_results](https://github
 
 Complete Python script can be found here: [PyPoll](https://github.com/MSF2141/election-analysis/blob/0c4dd0e0e08adde640c2937e66c999f796bbf494/PyPoll_Challenge.py).
 
-Printed results in a textfile can be found here:[election_analysis](https://github.com/MSF2141/election-analysis/blob/3066d208893af15b7448dfd2b48e40b37a8ce9c4/analysis/election_analysis.txt).
+Printed results in a textfile can be found here: [election_analysis](https://github.com/MSF2141/election-analysis/blob/3066d208893af15b7448dfd2b48e40b37a8ce9c4/analysis/election_analysis.txt).
 
 ## **Results**
 The analysis of the election show that:
-• There were 369,711 votes cast in the election.
-• The candidates were:
-     ○ Charles Casper Stockham
-     ○ Diana DeGette
-     ○ Raymon Anthony Doane
-•  The candidate results were:
-     ○ Candidate Charles Casper Stockham received 85,213 votes; which is 23.0% of total votes.
-     ○ Candidate Diana DeGette received 272,892 votes; which is 73.8% of total votes.
-     ○ Candidate Raymon Anthony Doane received 11,606 votes; which is 3.1% of total votes. 
-• The winner of the election was Diana DeGette who received 272,892 votes; which is 73.8% of total votes.
+- There were 369,711 votes cast in the election.
+- The candidates were:
+     - Charles Casper Stockham
+     - Diana DeGette
+     - Raymon Anthony Doane
+-  The candidate results were:
+     - Candidate Charles Casper Stockham received 85,213 votes; which is 23.0% of total votes.
+     - Candidate Diana DeGette received 272,892 votes; which is 73.8% of total votes.
+     - Candidate Raymon Anthony Doane received 11,606 votes; which is 3.1% of total votes. 
+- The winner of the election was Diana DeGette who received 272,892 votes; which is 73.8% of total votes.
     
 ![election_analysis](https://github.com/MSF2141/election-analysis/blob/3066d208893af15b7448dfd2b48e40b37a8ce9c4/analysis/election_analysis.txt).
 
