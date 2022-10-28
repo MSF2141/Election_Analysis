@@ -18,7 +18,10 @@ Specifically, the purpose of this analysis is to create and run a Python script 
 
 
 
-## **Results**
+## **Analysis**
+Data source can be found here : election...csv
+Software: Python 3..6.7? Visual studio Code 1.38.1
+
 Refactored and original VBA script can be found here:
 [VBA_Challenge](https://github.com/MSF2141/stock-analysis/blob/df71324ba2be48367c9bef26d1e495ddf80cc07d/VBA_Challenge.zip)
 
