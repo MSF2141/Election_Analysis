@@ -23,7 +23,9 @@ Data source can be found here as a *.csv file: [election_results](https://github
 
 Softwares: Python 3.7.6.7 and Visual studio Code 1.72.2
 
-Complete Python script can be found here: 
+Complete Python script can be found here: [PyPoll](https://github.com/MSF2141/election-analysis/blob/0c4dd0e0e08adde640c2937e66c999f796bbf494/PyPoll_Challenge.py).
+
+Printed results in a textfile can be found here:
 
 ## **Results**
 The analysis of the election show that:
