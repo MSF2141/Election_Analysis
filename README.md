@@ -48,7 +48,7 @@ The analysis of the election show that:
 
 ## **Summary**
 Completing tasks using the Python script in a VS Code was very fast and effective. It may be useful to know that current Python script can be modified in order to be used for other elections. For example, the initial part of the script can be modified to introduce any variables that are relevant for other elections. 
-[example_future_use_1](https://github.com/MSF2141/election-analysis/blob/c07103ab0bdfe0eaea797f1ebc8c70eabb70d085/analysis/example_future_use_1.png)
+![example_future_use_1](https://github.com/MSF2141/election-analysis/blob/c07103ab0bdfe0eaea797f1ebc8c70eabb70d085/analysis/example_future_use_1.png)
 In addition, throughout the script, one can choose which results should be printed in the terminal and which should be exported to a text file. 
-
+![example_future_use_2](https://github.com/MSF2141/election-analysis/blob/d245fe5b30614702ce919079b17bab8a9a6c1111/analysis/example_future_use_2.png)
 
