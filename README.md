@@ -19,8 +19,8 @@ Specifically, the purpose of this analysis is to create and run a Python script 
 
 
 ## **Analysis**
-Data source can be found here: [election_results](https://github.com/MSF2141/election-analysis/blob/f3555399e3f34aa2e7c59b239359e56b726efc69/resources/election_results.csv) as a *.csv file and here
-Software: Python 3..6.7? Visual studio Code 1.38.1
+Data source can be found here: [election_results](https://github.com/MSF2141/election-analysis/blob/f3555399e3f34aa2e7c59b239359e56b726efc69/resources/election_results.csv) as a *.csv file and here [election_results](https://github.com/MSF2141/election-analysis/blob/19c04d0dfbc2644c263757acf624e8c4d2005abd/resources/election_results.xlsx) as a *.xlsx file.
+Softwares: Python 3.7.6.7 and Visual studio Code 1.72.2
 
 Refactored and original VBA script can be found here:
 [VBA_Challenge](https://github.com/MSF2141/stock-analysis/blob/df71324ba2be48367c9bef26d1e495ddf80cc07d/VBA_Challenge.zip)
