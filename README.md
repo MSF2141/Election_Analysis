@@ -19,9 +19,9 @@ Specifically, the purpose of this analysis is to create and run a Python script 
 
 
 ## **Analysis**
-Data source can be found here as a *.csv file: [election_results](https://github.com/MSF2141/election-analysis/blob/f3555399e3f34aa2e7c59b239359e56b726efc69/resources/election_results.csv)  and here as a *.xlsx file: [election_results](https://github.com/MSF2141/election-analysis/blob/19c04d0dfbc2644c263757acf624e8c4d2005abd/resources/election_results.xlsx).
-
 Softwares: Python 3.7.6.7 and Visual studio Code 1.72.2
+
+Data source can be found here as a *.csv file: [election_results](https://github.com/MSF2141/election-analysis/blob/f3555399e3f34aa2e7c59b239359e56b726efc69/resources/election_results.csv)  and here as a *.xlsx file: [election_results](https://github.com/MSF2141/election-analysis/blob/19c04d0dfbc2644c263757acf624e8c4d2005abd/resources/election_results.xlsx).
 
 Complete Python script can be found here: [PyPoll](https://github.com/MSF2141/election-analysis/blob/0c4dd0e0e08adde640c2937e66c999f796bbf494/PyPoll_Challenge.py).
 
@@ -29,23 +29,20 @@ Printed results in a textfile can be found here:[election_analysis](https://gith
 
 ## **Results**
 The analysis of the election show that:
-• There were x votes cast in the election.
+• There were 369,711 votes cast in the election.
 • The candidates were:
-     ○
-     ○
-     ○
+     ○ Charles Casper Stockham
+     ○ Diana DeGette
+     ○ Raymon Anthony Doane
 •  The candidate results were:
-     ○ Candidate .. received ..% of the votes and.  
-         ... number of votes. 
-• The winner of the election was... who received..% 
-    of the votes and ...number of votes.
+     ○ Candidate Charles Casper Stockham received 85,213 votes; which is 23.0% of total votes.
+     ○ Candidate Diana DeGette received 272,892 votes; which is 73.8% of total votes.
+     ○ Candidate Raymon Anthony Doane received 11,606 votes; which is 3.1% of total votes. 
+• The winner of the election was Diana DeGette who received 272,892 votes; which is 73.8% of total votes.
+    
+![election_analysis](https://github.com/MSF2141/election-analysis/blob/3066d208893af15b7448dfd2b48e40b37a8ce9c4/analysis/election_analysis.txt).
 
-Refactored and original VBA script can be found here:
-[VBA_Challenge](https://github.com/MSF2141/stock-analysis/blob/df71324ba2be48367c9bef26d1e495ddf80cc07d/VBA_Challenge.zip)
 
-
-### Stock Performance and execution time using the Refactored VBA Code
-![VBA_Challenge_2018_refactored](https://github.com/MSF2141/stock-analysis/blob/9f3766bcac3e77ec054fa10f6a1a70b20d7aaa3e/Resources/VBA_Challenge_2018_refactored.png)
 
 
 ### Stock Performance and execution time using the Original VBA Code
