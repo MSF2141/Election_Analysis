@@ -19,7 +19,7 @@ Specifically, the purpose of this analysis is to create and run a Python script 
 
 
 ## **Analysis**
-Softwares: Python 3.7.6.7 and Visual studio Code 1.72.2
+Softwares: Python 3.7.6.7 and Visual studio Code (VS Code) 1.72.2
 
 Data source can be found here as a *.csv file: [election_results](https://github.com/MSF2141/election-analysis/blob/f3555399e3f34aa2e7c59b239359e56b726efc69/resources/election_results.csv)  and as a *.xlsx file: [election_results](https://github.com/MSF2141/election-analysis/blob/19c04d0dfbc2644c263757acf624e8c4d2005abd/resources/election_results.xlsx).
 
@@ -29,6 +29,8 @@ Complete Python script can be found here: [PyPoll](https://github.com/MSF2141/el
 
 ## **Results**
 Results are printed here as a *.txt file: [election_analysis](https://github.com/MSF2141/election-analysis/blob/3066d208893af15b7448dfd2b48e40b37a8ce9c4/analysis/election_analysis.txt).
+
+![results_analysis](https://github.com/MSF2141/election-analysis/blob/caabce88a2b68e45f244786ecb33190989fd43db/analysis/results_analysis.png)
 
 The analysis of the election show that:
 - There were 369,711 votes cast in the election.
@@ -41,11 +43,12 @@ The analysis of the election show that:
      - Candidate Diana DeGette received 272,892 votes; which is 73.8% of total votes.
      - Candidate Raymon Anthony Doane received 11,606 votes; which is 3.1% of total votes. 
 - The winner of the election was Diana DeGette who received 272,892 votes; which is 73.8% of total votes.
-    
-![results_analysis](https://github.com/MSF2141/election-analysis/blob/caabce88a2b68e45f244786ecb33190989fd43db/analysis/results_analysis.png)
 
 
- 
+
 ## **Summary**
+Completing tasks using the Python script in a VS Code was very fast and effective. It may be useful to know that current Python script can be modified in order to be used for other elections. For example, the initial part of the script can be modified to introduce any variables that are relevant for other elections. 
 
-In a summary statement, provide a business proposal to the election commission on how this script can be used—with some modifications—for any election. Give at least two examples of how this script can be modified to be used for other elections.
+In addition, throughout the script, one can choose which results should be printed in the terminal and which should be exported to a text file. 
+
+
