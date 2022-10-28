@@ -23,6 +23,21 @@ Data source can be found here as a *.csv file: [election_results](https://github
 
 Softwares: Python 3.7.6.7 and Visual studio Code 1.72.2
 
+Complete Python script can be found here: 
+
+## **Results**
+The analysis of the election show that:
+• There were x votes cast in the election.
+• The candidates were:
+     ○
+     ○
+     ○
+•  The candidate results were:
+     ○ Candidate .. received ..% of the votes and.  
+         ... number of votes. 
+• The winner of the election was... who received..% 
+    of the votes and ...number of votes.
+
 Refactored and original VBA script can be found here:
 [VBA_Challenge](https://github.com/MSF2141/stock-analysis/blob/df71324ba2be48367c9bef26d1e495ddf80cc07d/VBA_Challenge.zip)
 
