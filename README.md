@@ -19,7 +19,7 @@ Specifically, the purpose of this analysis is to create and run a Python script 
 
 
 ## **Analysis**
-Data source can be found here : election...csv
+Data source can be found here: [election_results](https://github.com/MSF2141/election-analysis/blob/f3555399e3f34aa2e7c59b239359e56b726efc69/resources/election_results.csv) and here
 Software: Python 3..6.7? Visual studio Code 1.38.1
 
 Refactored and original VBA script can be found here:
